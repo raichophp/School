@@ -1,1 +1,1 @@
-# School - Telerikacademy
+#  Telerikacademy
